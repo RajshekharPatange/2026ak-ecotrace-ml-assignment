@@ -22,7 +22,7 @@ The repository describes 1,055 chemicals represented by 41 integer/continuous mo
 
 ## c. GitHub Repository Link
 
-**Add your own public repository URL here after creating and pushing your project:** `PASTE_YOUR_GITHUB_REPOSITORY_URL`
+**Add your own public repository URL here after creating and pushing your project:** `https://github.com/RajshekharPatange/2026ak-ecotrace-ml-assignment`
 
 Do not use another student's repository or claim this scaffold as independently authored work. Preserve meaningful commits showing your own data checks, experiments, UI changes, and interpretation.
 
