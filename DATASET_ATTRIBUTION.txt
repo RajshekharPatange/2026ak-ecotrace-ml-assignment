@@ -1,0 +1,7 @@
+Dataset: QSAR biodegradation (UCI Machine Learning Repository, dataset ID 254)
+DOI: https://doi.org/10.24432/C5H60M
+Dataset page: https://archive.ics.uci.edu/dataset/254/qsar%2Bbiodegradation
+Creators: Kamel Mansouri, Tine Ringsted, Davide Ballabio, Roberto Todeschini, Viviana Consonni
+Citation: Mansouri, K., Ringsted, T., Ballabio, D., Todeschini, R., & Consonni, V. (2013).
+QSAR biodegradation [Dataset]. UCI Machine Learning Repository.
+Licence: Creative Commons Attribution 4.0 International (CC BY 4.0)

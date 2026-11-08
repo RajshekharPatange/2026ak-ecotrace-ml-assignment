@@ -1,0 +1,14 @@
+{
+  "dataset": "UCI QSAR biodegradation (ID 254)",
+  "target_column": "biodeg_class",
+  "positive_class": "RB",
+  "negative_class": "NRB",
+  "positive_label_encoding": 1,
+  "negative_label_encoding": 0,
+  "random_state": 42,
+  "test_size": 0.2,
+  "n_rows": 1055,
+  "n_features": 41,
+  "train_rows": 844,
+  "test_rows": 211
+}

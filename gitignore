@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+env/
+.DS_Store
+.streamlit/secrets.toml
+# Raw/training split copies are reproducible and not required for the submission.
+data/*.csv
+# Generated models and test_data.csv should be committed after train.py is run.
